@@ -33,6 +33,25 @@ h4{
     border-radius: 4px;
     padding-bottom: 0px;
 }
+.section_{
+    display: flex;
+}
+.sec1{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    
+    margin-right: 10px;
+    background-color:  rgb(243, 232, 228);
+   
+} 
+.sec2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    background-color:  rgb(243, 232, 228);
+    margin-left: 10px;
+} 
 #band{
     background-image: url('images/back3.jpg');
     background-position: center;
