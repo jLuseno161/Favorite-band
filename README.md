@@ -4,7 +4,7 @@
 Joy L. Kolia
 
 ## Description
-This is a simple site about my favorite band, why i choose it as my favorite, a mini biography on it's members, a list of some of the bands songs and albums and finaly a list my favorite songs by the band.
+This is a simple site about my favorite band, why i choose it as my favorite, a mini biography on it's members, a list of some of the bands songs and albums and finally a list my favorite songs by the band.
 
 ### Prerequisites
 
@@ -34,5 +34,6 @@ To acces this project, you need to clone it using these steps;
 View [live](https://)
 
 ### Licence
-This project is under the  [MIT](LICENSE) licence
+This project is under the  [MIT](LICENSE) licence:<br>
+
 Copyright (c) 2021 JOY L. KOLIA
