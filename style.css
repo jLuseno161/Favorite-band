@@ -8,3 +8,13 @@ li{
     padding-bottom: 2px;
     padding-left: 10px;
 }
+footer{
+  
+    background-color:  rgb(228, 214, 209);
+    text-align: center;
+    padding-top: 20px;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 15px;
+   
+}
